@@ -6,7 +6,7 @@
  <div>
   <a href="https://github.com/AllSafeCybercurity">
    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllSafeCybercurity&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllSafeCybercurity&show_icons=false&theme=dark&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllSafeCybercurity&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
