@@ -22,12 +22,7 @@
   <a href="https://www.linkedin.com/in/cesar-versatti-976323201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
  </div> 
  
- <p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
 
-<a href="https://github.com/muhammadamir5670/github-readme-activity-graph"><img alt="Muhammad Amir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammadamir5670&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
 
  ##
 
