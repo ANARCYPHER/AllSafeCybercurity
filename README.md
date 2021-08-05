@@ -3,7 +3,7 @@
 
 **💀AllSafeCybercurity/AllSafeCybercurity**
 <p align="center">
-<img width="200px" height="auto" src="images/image.gif" height="50px"/>
+<img width="50px" height="auto" src="images/image.gif" height="10px"/>
 </p>
 
  <div>
