@@ -2,9 +2,7 @@
 
 
 **💀AllSafeCybercurity/AllSafeCybercurity**
-<p align="center">
-<img width="100px" height="auto" src="" height="10px"/>
-</p>
+
 
  <div>
   <a href="https://github.com/AllSafeCybercurity">
