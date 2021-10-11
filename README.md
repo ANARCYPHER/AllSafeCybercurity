@@ -4,11 +4,6 @@
 **💀AllSafeCybercurity/AllSafeCybercurity**
 
 
- <div>
-  <a href="https://github.com/AllSafeCybercurity">
-   
-  
-</div>
 
 <div style="display: inline_block"><br>
  
