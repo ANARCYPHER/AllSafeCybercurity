@@ -21,5 +21,5 @@
 
  <a href="https://caesarversatti.web.app/" title="Resume" class="btn btn-linkedin btn-lg"><i class="fa fa-linkedin fa-fw"></i> Resume</a>
 
- 
+ <a class="btn btn-primary" href=""https://www.linkedin.com/in/cesar-versatti-976323201/" role="button">LinkedIn</a>
 
