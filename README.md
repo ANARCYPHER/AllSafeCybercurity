@@ -17,7 +17,7 @@
  <div>
 
  <a href="#" title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-
+<a href="#" button type="button" class="btn btn-primary">Primary</button>
 
  ##
 
